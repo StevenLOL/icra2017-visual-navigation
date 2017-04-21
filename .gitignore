@@ -3,12 +3,10 @@ tmp/*
 old/*
 checkpoints*/*
 logs/*
-data/*
 data/*.h5
 data/*.hdf5
 data/*.json
 unity/*
-data
 visualization
 results
 .DS_Store
